@@ -1,0 +1,2 @@
+Marcos;6;50
+Andres;3;50
